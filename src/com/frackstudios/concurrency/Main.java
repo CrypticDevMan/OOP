@@ -19,6 +19,9 @@ public class Main {
             }
         }.start();
 
+        Thread myRunnableThread = new Thread(new MyRunnable());
+        myRunnableThread.start();
+
         System.out.println("Hello again from the main thread.");
 
     }
