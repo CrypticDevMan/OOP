@@ -3,7 +3,7 @@ package com.frackstudios.concurrency;
 import static com.frackstudios.concurrency.ThreadColor.ANSI_RED;
 
 /**
- * Created by @author ToxicA0E on 5/30/2016.
+ * Created by ToxicA0E on 5/30/2016.
  */
 public class MyRunnable  implements  Runnable{
 

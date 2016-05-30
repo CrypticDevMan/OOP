@@ -1,3 +1,3 @@
 /**
- * Created by @author ToxicA0E on ${DATE}.
+ * Created by ToxicA0E on ${DATE}.
  */
